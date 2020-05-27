@@ -1,0 +1,2 @@
+rootProject.name='CustomDeteAndTimePickerDemo'
+include ':app'
